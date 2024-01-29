@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Section 1
 Venz was here!
 
@@ -7,10 +6,10 @@ Section 2
 Section 3
 
 Section 4
-=======
+
+NEW FILE
 
 John was here!
->>>>>>> john
 
 Section 5
 Kate Made it:
