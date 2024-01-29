@@ -11,3 +11,6 @@ Section 4
 
 John was here!
 >>>>>>> john
+
+Section 5
+Kate Made it:
